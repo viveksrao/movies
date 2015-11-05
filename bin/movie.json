@@ -1,0 +1,8 @@
+{
+  "movie": {
+    "movieid": 4,
+    "title": "The Intern",
+	  "genre": "Comedy",
+	  "duration": 100
+  }
+}
